@@ -3,17 +3,25 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
-  "dev": "nodemon app.js"
-},
-
+    "start": "node index.js",
+    "dev": "nodemon app.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000w\u0000i\u0000l\u0000i\u0000a\u0000n\u0000-\u0000a\u0000t\u0000i\u0000v\u0000i\u0000d\u0000a\u0000d\u0000e\u0000-\u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "mysql2": "^3.14.2",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domingos-junio/wilian-atividade-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/domingos-junio/wilian-atividade-backend/issues"
+  },
+  "homepage": "https://github.com/domingos-junio/wilian-atividade-backend#readme"
 }
